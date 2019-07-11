@@ -2,3 +2,5 @@
 build/
 cbuild/
 compile_commands.json
+*.user
+*.bak
